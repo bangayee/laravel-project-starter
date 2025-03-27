@@ -39,15 +39,19 @@ Follow these steps to install and run this project:
    ```sh
    php artisan storage:link
    ```
+6. **Migrate Database**
+   ```sh
+   php artisan migrate
+   ```
 
-6. **Seed Database**
+7. **Seed Database**
    ```sh
    php artisan db:seed --class=RolePermissionSeeder
    php artisan db:seed --class=UserSeeder
    php artisan db:seed --class=DatabaseSeeder
    ```
 
-7. **Start the Server**
+8. **Start the Server**
    ```sh
    php artisan serve
    ```
