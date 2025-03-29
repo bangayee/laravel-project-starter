@@ -2,7 +2,11 @@
 
 A starter project using Laravel with integration of popular plugins such as Laravel Breeze, Spatie, and Datatable.
 
-✨ Features
+
+
+
+## ✨ Features
+
 Pre-configured Authentication: Built-in authentication using Laravel Breeze.
 
 User & Role Management: Seamless integration with Spatie's Laravel Permission.
@@ -17,7 +21,10 @@ API Ready: Pre-configured for API development.
 
 Easy Setup: Simple installation process with environment configuration.
 
-📦 Included Packages
+
+
+## 📦 Included Packages
+
 Laravel Breeze
 
 Spatie Laravel Permission
