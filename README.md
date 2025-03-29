@@ -2,10 +2,29 @@
 
 A starter project using Laravel with integration of popular plugins such as Laravel Breeze, Spatie, and Datatable.
 
-## Features
-- **Laravel Breeze**: Simple and lightweight authentication for Laravel.
-- **Spatie**: Permission management and additional features.
-- **Datatable**: Interactive table display with search and filter features.
+✨ Features
+Pre-configured Authentication: Built-in authentication using Laravel Breeze.
+
+User & Role Management: Seamless integration with Spatie's Laravel Permission.
+
+Datatable Support: Enhanced data display with Laravel Datatables.
+
+Clean Code Structure: Organized and maintainable project architecture.
+
+Tailwind CSS UI: Modern and responsive frontend design.
+
+API Ready: Pre-configured for API development.
+
+Easy Setup: Simple installation process with environment configuration.
+
+📦 Included Packages
+Laravel Breeze
+
+Spatie Laravel Permission
+
+Laravel Datatables
+
+Tailwind CSS
 
 ## Installation
 
